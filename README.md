@@ -1,12 +1,12 @@
 # Hi there, I'm Andreea 👋
-**DevOps Engineer → MLOps Enthusiast**
+**DevOps Engineer → AI/ML Postgraduate Candidate → Aspiring AI/LLM Engineer**
 
 I build scalable cloud infrastructures, improve delivery pipelines, and help bring ML workflows into production.
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Pursuing **AI/ML Postgraduate** studies
+- 🎓 Currently pursuing **Applied Artificial Intelligence/ML Postgraduate** studies
 - 💡 Interested in **MLOps**, **NLP**, and **Computer Vision** (Hugging Face / Transformers)
 - 🤝 Collaboration-first: clear handoffs between **dev** and **ops**
 
