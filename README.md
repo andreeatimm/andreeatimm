@@ -1,5 +1,5 @@
 # Hi there, I'm Andreea 👋
-**DevOps Engineer → AI/ML Postgraduate Candidate → Aspiring AI/LLM Engineer**
+**DevOps Engineer → AI/ML Postgraduate Candidate → Aspiring AI/ML Engineer in Healthcare**
 
 I build scalable cloud infrastructures, improve delivery pipelines, and help bring ML workflows into production.
 
