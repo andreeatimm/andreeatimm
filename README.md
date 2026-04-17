@@ -7,7 +7,7 @@ I build scalable cloud infrastructures, improve delivery pipelines, and help bri
 
 ### 👩‍💻 About Me
 - 🎓 Currently pursuing **Applied Artificial Intelligence/ML Postgraduate** studies
-- 💡 Interested in **MLOps**, **NLP**, and **Computer Vision** (Hugging Face / Transformers)
+- 💡 Interested in **MLOps**, **NLP**, and **Computer Vision** (Deep Learning / Transformers)
 - 🤝 Collaboration-first: clear handoffs between **dev** and **ops**
 
 ---
@@ -22,7 +22,7 @@ I build scalable cloud infrastructures, improve delivery pipelines, and help bri
 ---
 
 ### 🚀 Advanced Technologies
-- 🐍 **Python (Data / NLP / CV)**: Pandas, NumPy, scikit-learn, PyTorch, Hugging Face Transformers, OpenCV, MediaPipe, Ultralytics YOLO (YOLOv5/YOLOv8)
+- 🐍 **Python (Data / NLP / CV)**: Pandas, NumPy, scikit-learn, Tensorflow, Hugging Face Transformers, OpenCV, MediaPipe, Ultralytics YOLO (YOLOv5/YOLOv8)
 - 📈 **Event-driven autoscaling**: KEDA + RabbitMQ (queue-based scaling for Kubernetes workloads)
 - 📊 **Observability**: Prometheus, Grafana (metrics, dashboards, alerting)
 - 🧩 **Microservices**: containerized service design, deployment automation, service-to-service communication
